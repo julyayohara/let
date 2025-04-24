@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyoncé - Ícone Cultural</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <h1>Beyoncé</h1>
+        <nav>
+            <ul class="menu" role="menubar">
+                <li role="none"><a href="#biografia" role="menuitem">Biografia</a></li>
+                <li role="none"><a href="#carreira" role="menuitem">Carreira</a></li>
+                <li role="none"><a href="#impacto" role="menuitem">Impacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="biografia" tabindex="0">
+            <h2>Biografia</h2>
+            <p>Beyoncé Giselle Knowles-Carter nasceu em 4 de setembro de 1981 em Houston, Texas. Desde jovem demonstrou talento para música e dança.</p>
+        </section>
+
+        <section id="carreira" tabindex="0">
+            <h2>Carreira</h2>
+            <p>Começou sua carreira com o grupo Destiny's Child e se consolidou como artista solo com hits como "Crazy in Love", "Halo" e "Formation".</p>
+        </section>
+
+        <section id="impacto" tabindex="0">
+            <h2>Impacto Cultural</h2>
+            <p>Beyoncé é símbolo de empoderamento feminino e da cultura negra. Seu álbum *Lemonade* e a turnê *Renaissance* reforçam seu ativismo social e artístico.</p>
+        </section>
+    </main>
+
+    <footer class="rodape">
+        <p>Projeto acessível inspirado no curso Alura - Acessibilidade na Web</p>
+    </footer>
+</body>
+</html>
